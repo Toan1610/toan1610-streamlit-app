@@ -1,0 +1,2 @@
+{"messages": [{"role": "System", "content": "You help make text smooth."}, {"role": "User", "content": "Make it coherent: It lasted for 60 minutes. Three men answered questions."}, {"role": "Chatbot", "content": "It lasted 60 minutes, with three men answering questions."}]}
+{"messages": [{"role": "System", "content": "You improve sentences."}, {"role": "User", "content": "Make smooth: The project was successful. It finished on time."}, {"role": "Chatbot", "content": "The project finished on time successfully."}]}
