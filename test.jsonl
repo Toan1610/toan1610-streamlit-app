@@ -1,0 +1,16 @@
+{
+  "messages": [
+    {
+      "role": "System",
+      "content": "You are a writing assistant that helps the user write coherent text."
+    },
+    {
+      "role": "User",
+      "content": "Make the text more coherent: It lasted for 60 minutes. It featured the three men taking questions from a studio audience."
+    },
+    {
+      "role": "Chatbot",
+      "content": "Lasting for 60 minutes, it featured the three men taking questions from a studio audience."
+    }
+  ]
+}
